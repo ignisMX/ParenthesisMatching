@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ParenthesisMatching",
+            "request": "launch",
+            "mainClass": "ParenthesisMatching",
+            "projectName": "ParenthesisMatching_4eb1ba1e"
+        }
+    ]
+}
